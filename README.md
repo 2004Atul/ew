@@ -1,6 +1,3 @@
-**Working Links for the Project
-Web Application hosted on Azure through public ip-> http://52.224.9.94/ew/
-Web Application hosted on Azure through DNS name-> http://orderista.eastus.cloudapp.azure.com/ew/
 
 Github Repository -> https://github.com/2004Atul/ew.git
 
